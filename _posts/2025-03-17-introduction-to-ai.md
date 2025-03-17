@@ -4,6 +4,7 @@ date: 2025-03-17
 categories: [AI, Artificial Intelligence]
 tags: [AI, Machine Learning, Deep Learning, Artificial Intelligence]
 author: prakashroy1211
+excerpt: "Discover the basics of Artificial Intelligence (AI), how it works, and its real-world applications. Learn how AI is transforming industries and everyday life."
 ---
 
 ## What is AI?
